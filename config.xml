@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP135" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP185" version="1.0.1">
     
-    <name>桃園房屋</name>
-    <description>「桃園房屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「桃園房屋」是您的買屋好夥伴！ </description>
-    <author href="http://www.myhomes.com.tw/m/0932099858" email="myhomes.management@gmail.com">桃園房屋</author>
+    <name>新竹好房網</name>
+    <description>「新竹好房網」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「新竹好房網」是您的買屋好夥伴！ </description>
+    <author href="http://www.myhomes.com.tw/m/0972921167" email="myhomes.management@gmail.com">新竹好房網</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP135.png"/>
+    <icon src="HP185.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-8.0.0" />
