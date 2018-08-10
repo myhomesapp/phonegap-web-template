@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7217" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6027" version="1.0.1">
     
-    <name>中永和好房網</name>
-    <description>「中永和好房網」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「中永和好房網」是您的買屋好夥伴！ </description>
-    <author href="http://www.myhomes.com.tw/m/0952856888" email="myhomes.management@gmail.com">中永和好房網</author>
+    <name>台中房多多</name>
+    <description>「台中房多多」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「台中房多多」是您的買屋好夥伴！ </description>
+    <author href="http://www.myhomes.com.tw/m/0981637900" email="myhomes.management@gmail.com">台中房多多</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP7217.png"/>
+    <icon src="HP6027.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-8.0.0" />
