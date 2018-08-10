@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6730" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6793" version="1.0.1">
     
-    <name>斗六房地產</name>
-    <description>「斗六房地產」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「斗六房地產」是您的買屋好夥伴！ </description>
-    <author href="http://www.myhomes.com.tw/m/0932592321" email="myhomes.management@gmail.com">斗六房地產</author>
+    <name>彰化好屋網</name>
+    <description>「彰化好屋網」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「彰化好屋網」是您的買屋好夥伴！ </description>
+    <author href="http://www.myhomes.com.tw/m/0983936888" email="myhomes.management@gmail.com">彰化好屋網</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP6730.png"/>
+    <icon src="HP6793.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-8.0.0" />
