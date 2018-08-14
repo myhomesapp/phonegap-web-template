@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6626" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6921" version="1.0.1">
     
-    <name>中壢青埔好房</name>
-    <description>「中壢青埔好房」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「中壢青埔好房」是您的買屋好夥伴！ </description>
-    <author href="http://www.myhomes.com.tw/m/0970368787" email="myhomes.management@gmail.com">中壢青埔好房</author>
+    <name>鳳山中古屋 高雄賣屋</name>
+    <description>「鳳山中古屋 高雄賣屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「鳳山中古屋 高雄賣屋」是您的買屋好夥伴！ </description>
+    <author href="http://www.myhomes.com.tw/m/077430007.077409599" email="myhomes.management@gmail.com">鳳山中古屋 高雄賣屋</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP6626.png"/>
+    <icon src="HP6921.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-8.0.0" />
