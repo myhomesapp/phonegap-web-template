@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6871" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_SP6021" version="1.0.1">
     
-    <name>新莊房地產</name>
-    <description>「新莊房地產」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「新莊房地產」是您的買屋好夥伴！ </description>
-    <author href="http://www.myhomes.com.tw/m/0936507865" email="myhomes.management@gmail.com">新莊房地產</author>
+    <name>我家玩美防護</name>
+    <description>玩美防護從居家環境、人身安全、宅內居所全面防護是成立本平台的原意，公司成立於1993年，初期是以各種精密電子、汽機車、自行車、各種零件成品製造、研磨為主。在網路時代來臨，本商店主要的居家安全加上防疫除臭、節能環保及合宜的禮贈品為主軸。 透過生技與科技商品改善我們的生活，保護我們的生命與資產，遠離細菌與病毒，達到居家開心、安心的玩美生活！</description>
+    <author href="https://www.myshops.tw/zqpbic" email="myhomes.management@gmail.com">我家玩美防護</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP6871.png"/>
+    <icon src="SP6021.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-8.0.0" />
