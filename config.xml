@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_SP6021" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6378" version="1.6.1">
     
-    <name>我家玩美防護</name>
-    <description>玩美防護從居家環境、人身安全、宅內居所全面防護是成立本平台的原意，公司成立於1993年，初期是以各種精密電子、汽機車、自行車、各種零件成品製造、研磨為主。在網路時代來臨，本商店主要的居家安全加上防疫除臭、節能環保及合宜的禮贈品為主軸。 透過生技與科技商品改善我們的生活，保護我們的生命與資產，遠離細菌與病毒，達到居家開心、安心的玩美生活！</description>
-    <author href="https://www.myshops.tw/zqpbic" email="myhomes.management@gmail.com">我家玩美防護</author>
+    <name>新竹謝老闆</name>
+    <description>您買屋賣屋的好夥伴</description>
+    <author href="http://www.myhomes.com.tw/m/" email="myhomes.management@gmail.com">新竹謝老闆</author>
     
     <!-- Configuration End -->
   
@@ -14,11 +14,16 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="SP6021.png"/>
+    <icon src="HP6378.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
-    <preference name="phonegap-version" value="cli-8.0.0" />
-    <preference name="android-minSdkVersion" value="26" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
+  <preference name="android-build-tool" value="ant|gradle" />
+  <preference name="android-minSdkVersion" value="21" />
+  <preference name="android-maxSdkVersion" value="28" />
+  <preference name="android-targetSdkVersion" value="26" />
+  <preference name="android-installLocation" value="auto" />
+  <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
     
     <!-- 防止太多權限 -->
     <preference name="permissions" value="none" />
