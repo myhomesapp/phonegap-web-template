@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP5788" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7122" version="1.0.2">
     
-    <name>新竹613房屋</name>
-    <description>「新竹613房屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「新竹613房屋」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0978315613" email="myhomes.management@gmail.com">新竹613房屋</author>
+    <name>花蓮房地達人</name>
+    <description>「花蓮房地達人」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「花蓮房地達人」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0921588729.0928080517" email="myhomes.management@gmail.com">花蓮房地達人</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP5788.png"/>
+    <icon src="HP7122.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
