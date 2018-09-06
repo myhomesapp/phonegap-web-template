@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6009" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6922" version="1.0.0">
     
-    <name>高雄房屋土地</name>
-    <description>「高雄房屋土地」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「高雄房屋土地」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/075505158" email="myhomes.management@gmail.com">高雄房屋土地</author>
+    <name>雲林房屋土地</name>
+    <description>「雲林房屋土地」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「雲林房屋土地」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/055331301" email="myhomes.management@gmail.com">雲林房屋土地</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP6009.png"/>
+    <icon src="HP6922.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
