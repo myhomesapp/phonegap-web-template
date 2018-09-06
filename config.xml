@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_SP6021" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_SP6016" version="1.0.0">
     
-    <name>我家玩美防護</name>
-    <description>我家玩美防護從居家環境、人身安全、宅內居所全面防護是成立本平台的原意，居家安全加上防疫除臭、節能環保及合宜的禮贈品為主軸，改善我們的生活，遠離細菌與病毒。</description>
-    <author href="https://www.myshops.tw/zqpbic" email="myhomes.management@gmail.com">我家玩美防護</author>
+    <name>線材先生</name>
+    <description>專業從事於電腦周邊產品、多電腦切換器、螢幕分配器、影音延長器、矩陣式影音切換器、線材等。※您創造的需求，由我們一手包辦，將滿足您的需求，使生活便利又精彩。</description>
+    <author href="https://www.myshops.tw/hixcess" email="myhomes.management@gmail.com">線材先生</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="SP6021.png"/>
+    <icon src="SP6016.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
