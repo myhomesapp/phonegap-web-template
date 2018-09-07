@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7284" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP446" version="1.0.2">
     
-    <name>北大特區買屋</name>
-    <description>「北大特區買屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「北大特區買屋」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0910991687" email="myhomes.management@gmail.com">北大特區買屋</author>
+    <name>樹林土地房屋</name>
+    <description>「樹林土地房屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「樹林土地房屋」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0939239398" email="myhomes.management@gmail.com">樹林土地房屋</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP7284.png"/>
+    <icon src="HP446.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
