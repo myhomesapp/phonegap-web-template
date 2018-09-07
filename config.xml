@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6127" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6952" version="1.0.0">
     
-    <name>八德房仲王</name>
-    <description>「八德房仲王」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「八德房仲王」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/033683777" email="myhomes.management@gmail.com">八德房仲王</author>
+    <name>花蓮買土地</name>
+    <description>「花蓮買土地」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「花蓮買土地」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0928078111" email="myhomes.management@gmail.com">花蓮買土地</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP6127.png"/>
+    <icon src="HP6952.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
