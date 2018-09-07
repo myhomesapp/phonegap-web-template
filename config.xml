@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6871" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6127" version="1.0.2">
     
-    <name>新莊房地產</name>
-    <description>「新莊房地產」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「新莊房地產」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0936507865" email="myhomes.management@gmail.com">新莊房地產</author>
+    <name>八德房仲王</name>
+    <description>「八德房仲王」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「八德房仲王」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/033683777" email="myhomes.management@gmail.com">八德房仲王</author>
     
     <!-- Configuration End -->
   
