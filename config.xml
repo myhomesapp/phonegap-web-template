@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP300" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP5999" version="1.0.0">
     
-    <name>城市農夫的休閒農地</name>
-    <description>「城市農夫的休閒農地」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「城市農夫的休閒農地」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0916096169" email="myhomes.management@gmail.com">城市農夫的休閒農地</author>
+    <name>永康買房</name>
+    <description>「永康買房」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「永康買房」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0981226589" email="myhomes.management@gmail.com">永康買房</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP300.png"/>
+    <icon src="HP5999.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
