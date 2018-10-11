@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7384" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7385" version="1.0.0">
     
-    <name>彰化買房</name>
-    <description>「彰化買房」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「彰化買房」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0915313101" email="myhomes.management@gmail.com">彰化買房</author>
+    <name>彰化房地</name>
+    <description>「彰化房地」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「彰化房地」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0982278032" email="myhomes.management@gmail.com">彰化房地</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP7384.png"/>
+    <icon src="HP7385.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
