@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7285" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP076" version="1.0.0">
     
-    <name>中興大學買房 台中買屋賣屋</name>
-    <description>「中興大學買房 台中買屋賣屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「中興大學買房 台中買屋賣屋」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0422870099" email="myhomes.management@gmail.com">中興大學買房 台中買屋賣屋</author>
+    <name>俐穎房屋</name>
+    <description>「俐穎房屋」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「俐穎房屋」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0910560909" email="myhomes.management@gmail.com">俐穎房屋</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP7285.png"/>
+    <icon src="HP076.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
