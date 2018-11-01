@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP5787" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6708" version="1.0.0">
     
-    <name>老鷹復興團隊 台中房仲</name>
-    <description>「老鷹復興團隊 台中房仲」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「老鷹復興團隊 台中房仲」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0422605500" email="myhomes.management@gmail.com">老鷹復興團隊 台中房仲</author>
+    <name>淡水房地產</name>
+    <description>「淡水房地產」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「淡水房地產」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0986939747" email="myhomes.management@gmail.com">淡水房地產</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP5787.png"/>
+    <icon src="HP6708.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
