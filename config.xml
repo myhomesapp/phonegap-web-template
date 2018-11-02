@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HPSP6019" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HPSP6019" version="1.0.2">
     
     <name>GPS香氛花園</name>
     <description>香氛不僅僅是聞香味，更是緩解緊繃神經、舒緩情緒的好幫手 現代生活步調快、生活壓力大，人們很需要可以紓壓的管道，讓家裡充滿香氛，也讓"回家"成了每天下班後的小確幸</description>
