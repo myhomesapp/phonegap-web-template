@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7466" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP7467" version="1.0.0">
     
-    <name>花蓮幸福成家</name>
-    <description>「花蓮幸福成家」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「花蓮幸福成家」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/0933997779.0955069692" email="myhomes.management@gmail.com">花蓮幸福成家</author>
+    <name>花蓮是我家</name>
+    <description>「花蓮是我家」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「花蓮是我家」是您的買屋好夥伴！</description>
+    <author href="http://www.myhomes.com.tw/m/0933484168" email="myhomes.management@gmail.com">花蓮是我家</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP7466.png"/>
+    <icon src="HP7467.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
