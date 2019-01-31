@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.com_HP6266" version="1.0.0">
+<widget xmlns="https://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0" id="com.com_HP6266" version="1.0.0">
     
     <name>台南永明的家</name>
     <description>「台南永明的家」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「台南永明的家」是您的買屋好夥伴！</description>
-    <author href="http://www.myhomes.com.tw/m/taiwanhouse138" email="myhomes.management@gmail.com">台南永明的家</author>
+    <author href="https://www.myhomes.com.tw/m/taiwanhouse138" email="myhomes.management@gmail.com">台南永明的家</author>
     
     <!-- Configuration End -->
   
