@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="https://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0" id="com.com_HP0000" version="1.0.0">
+<widget xmlns="https://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0" id="com.com_HP6366" version="1.0.0">
     
-    <name>我家網</name>
-    <description>「我家網」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「我家網」是您的買屋好夥伴！</description>
-    <author href="https://www.myhomes.com.tw/m/" email="myhomes.management@gmail.com">我家網</author>
+    <name>嘉義房屋專家</name>
+    <description>「嘉義房屋專家」線上服務為每一位顧客提供了完整的房屋資料庫，透過網絡的連結，讓您可以輕鬆快速的搜尋房屋資訊，並且一手掌握全台灣出租與買房的訊息，「嘉義房屋專家」是您的買屋好夥伴！</description>
+    <author href="https://www.myhomes.com.tw/m/0975806533" email="myhomes.management@gmail.com">嘉義房屋專家</author>
     
     <!-- Configuration End -->
   
@@ -14,7 +14,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="HP0000.png"/>
+    <icon src="HP6366.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
